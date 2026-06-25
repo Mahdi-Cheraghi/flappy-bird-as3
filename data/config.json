@@ -1,0 +1,13 @@
+{
+  "audio": {
+    "music": true,
+    "sound": true,
+    "volume": 60
+  },
+
+  "game": {
+    "backgroundType": "day",
+    "birdType": "yellow",
+    "pipeType": "green"
+  }
+}
