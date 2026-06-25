@@ -1,0 +1,4 @@
+# Executable 
+*.swf
+*drawio
+.vscode
