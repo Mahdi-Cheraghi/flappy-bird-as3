@@ -10,6 +10,7 @@
     import flash.net.URLRequest;
 
     import services.TooltipManager;
+    import services.DataManager;
     import services.MusicManager;
     import services.SoundManager;
     import model.ScreenNames;
