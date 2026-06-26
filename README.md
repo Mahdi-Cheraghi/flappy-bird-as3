@@ -20,12 +20,13 @@
 
 Gameplay Video
 
-<p align="center">
-  <video width="850" controls>
-    <source src="docs/video/flappy-bird-demo.mp4"type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <video src="https://github.com/user-attachments/assets/9dc21de8-b2ab-4aea-af18-1f8d0839841c" width="850" controls></video>
+    </td>
+  </tr>
+</table>
 
 ## Screenshots
 
