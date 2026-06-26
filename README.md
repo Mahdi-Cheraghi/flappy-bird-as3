@@ -20,13 +20,9 @@
 
 Gameplay Video
 
-<table align="center">
-  <tr>
-    <td>
-      <video src="https://github.com/user-attachments/assets/9dc21de8-b2ab-4aea-af18-1f8d0839841c" width="850" controls></video>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/9dc21de8-b2ab-4aea-af18-1f8d0839841c" width="850" controls></video>
+</div>
 
 ## Screenshots
 
