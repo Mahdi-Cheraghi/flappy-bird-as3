@@ -21,41 +21,22 @@
 Gameplay Video
 
 <p align="center">
-  <img src="docs/img/demo.gif" width="350" alt="Gameplay Demo>
+  <video width="850" controls>
+    <source src="docs/video/flappy-bird-demo.mp4"type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ## Screenshots
 
+Screenshots
+
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="docs/img/screenshots/Intro.PNG" width="180">
-        <br>
-        <b>Intro</b>
-      </td>
-      <td align="center">
-        <img src="docs/img/screenshots/Gameplay.png" width="180">
-        <br>
-        <b>Gameplay</b>
-      </td>
-      <td align="center">
-        <img src="docs/img/screenshots/Accounts.PNG" width="180">
-        <br>
-        <b>Account Management</b>
-      </td>
-      <td align="center">
-        <img src="docs/img/screenshots/Settings.PNG" width="180">
-        <br>
-        <b>Settings</b>
-      </td>
-      <td align="center">
-        <img src="docs/img/screenshots/Ranking.PNG" width="180">
-        <br>
-        <b>Ranking</b>
-      </td>
-    </tr>
-  </table>
+  <img src="docs/img/screenshots/Intro.PNG" width="180">
+  <img src="docs/img/screenshots/Gameplay.png" width="180">
+  <img src="docs/img/screenshots/Account_Management.PNG" width="180">
+  <img src="docs/img/screenshots/Settings.PNG" width="180">
+  <img src="docs/img/screenshots/Ranking.PNG" width="180">
 </p>
 
 ---
