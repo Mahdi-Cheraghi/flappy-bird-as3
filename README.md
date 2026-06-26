@@ -27,11 +27,35 @@ Gameplay Video
 ## Screenshots
 
 <p align="center">
-  <img src="docs/img/screenshots/Intro.PNG" width="180">
-  <img src="docs/img/screenshots/Gameplay.png" width="180">
-  <img src="docs/img/screenshots/Accounts.PNG" width="180">
-  <img src="docs/img/screenshots/Settings.PNG" width="180">
-  <img src="docs/img/screenshots/Ranking.PNG" width="180">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="docs/img/screenshot/Intro.PNG" width="180">
+        <br>
+        <b>Intro</b>
+      </td>
+      <td align="center">
+        <img src="docs/img/screenshot/Gameplay.png" width="180">
+        <br>
+        <b>Gameplay</b>
+      </td>
+      <td align="center">
+        <img src="docs/img/screenshot/Accounts.PNG" width="180">
+        <br>
+        <b>Account Management</b>
+      </td>
+      <td align="center">
+        <img src="docs/img/screenshot/Settings.PNG" width="180">
+        <br>
+        <b>Settings</b>
+      </td>
+      <td align="center">
+        <img src="docs/img/screenshot/Ranking.PNG" width="180">
+        <br>
+        <b>Ranking</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
