@@ -152,6 +152,12 @@ or use the standard Publish command from the Animate menu.
 
 ---
 
+## Controls
+
+- Mouse: Jump & Menu interaction
+
+---
+
 ## Data Storage
 
 Player profiles, settings, scores, and other persistent data are stored locally using Flash SharedObject.
@@ -177,5 +183,3 @@ The next time the game starts, a new save file will be created automatically wit
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
-
----
