@@ -26,8 +26,6 @@ Gameplay Video
 
 ## Screenshots
 
-Screenshots
-
 <p align="center">
   <img src="docs/img/screenshots/Intro.PNG" width="180">
   <img src="docs/img/screenshots/Gameplay.png" width="180">
@@ -40,7 +38,6 @@ Screenshots
 
 ## Features
 
-- Classic Flappy Bird gameplay
 - Modular screen architecture
 - Local player profiles
 - Leaderboard and high score tracking
@@ -51,36 +48,15 @@ Screenshots
 
 ---
 
-## Project Structure
-
-```text
-├── assets/
-├── data/
-├── docs/
-├── fla/
-├── src/
-└── swf/
-```
----
-
 ## Architecture
 
 The application follows a modular screen-based architecture.
 
-```text
-Main
- └── LoadingScreen
-      └── Intro
-           ├── Account
-           ├── Settings
-           ├── Ranking
-```
 Each screen is published as an individual SWF and loaded dynamically at runtime.
 
 <p align="center">
   <img src="docs/img/Architecture.png" width="1100">
 </p>
-
 
 ---
 
@@ -182,4 +158,4 @@ The next time the game starts, a new save file will be created automatically wit
 
 ## License
 
-This project is licensed under the [MIT License](/LICENSE).
+Under [MIT License](/LICENSE).
