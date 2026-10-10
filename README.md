@@ -93,7 +93,6 @@ Settings.swf
 Ranking.swf
 GamePlay.swf
 ```
-
 ---
 
 ## Running the Project
@@ -158,4 +157,4 @@ The next time the game starts, a new save file will be created automatically wit
 
 ## License
 
-Under [MIT License](/LICENSE)
+This project is licensed under [MIT License](/LICENSE).
